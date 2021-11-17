@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : ""
+# remote_theme           : ""
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "수행자의 Blog"
 title_separator          : "-"
 subtitle                 : "독서+명상+기도+공부+사색 = 잡다구니한 일상의 기록"
-name                     : "100448_KHS"
+name                     : "KHS"
 description              : "독서+명상+기도+공부+사색 = 잡다구니한 일상의 기록"
 url                      : "https://100448.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
